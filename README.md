@@ -16,3 +16,6 @@ The project replicates YouTube's front-end UI, featuring a clean video grid layo
 
 🎯 Purpose
 This project was built to strengthen front-end development skills by recreating a real-world interface using only core web technologies.
+
+
+![Youtube-Clone-Website](Demo.PNG)
